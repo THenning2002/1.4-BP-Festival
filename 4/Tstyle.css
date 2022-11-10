@@ -1,0 +1,75 @@
+body{
+    background-image: url("Space.png");    
+    background-color:#002A56;
+
+    font-family: "Comic Sans MS";
+    color: white;
+}
+a{
+  color: #02F9FD;
+}
+.topnav {
+    overflow: hidden;
+    margin-left: 1300px;
+    margin-top: 35px;
+
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #1D8BF8;
+    color: white;
+  }
+
+.time {
+  font-size: 50px;
+  margin-top: 750px;
+  margin-left: 790px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.login {
+  margin-top:  540px;
+  margin-left: 790px
+}
+
+#dier, th, td {
+   
+  border: 1px solid #FFFFFF;
+  text-align: left;
+  padding: 8px;
+}
+
+.Registreren{
+  margin-top:  540px;
+  margin-left: 715px
+}

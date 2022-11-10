@@ -1,0 +1,50 @@
+body{
+    background-image: url("background.png");
+
+    font-family: "Comic Sans MS";
+    color: rgb(10, 0, 74);
+
+
+}
+
+a{
+  color: #02F9FD;
+}
+
+
+.topnav {
+    overflow: hidden;
+    margin-left: 1550px;
+    margin-top: 35px;
+
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 35px;
+  }
+  
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #1D8BF8;
+    color: white;
+  }
+
+  #dier, th, td {
+   
+    border: 1px solid #FFFFFF;
+    text-align: left;
+    padding: 8px;
+  }
+
+  .roster{
+    margin-top: 75px;
+  }
